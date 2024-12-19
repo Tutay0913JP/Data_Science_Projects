@@ -25,11 +25,6 @@ This assignment performed a single and multiple regression models to predict hou
 * car
 
 <!-- GETTING STARTED -->
-### Snapshot of Work
- Measure the relationship of multiple variables that can impact the homeless population and identify if  available public support (total number of available beds) can somehow show effectiveness when decreasing 
-homelessness.
-
-
 ### Analysis Result
  Overall, the regression model shows unbiased because of the following:
  • Confidence Interval shows no values cross over zero thus indicates that this is not a bad model.
@@ -40,6 +35,10 @@ homelessness.
  • Histogram shows normal distribution which mean that our model is accurate for the sample and  generalized to the population
 
 <!-- CONTACT -->
+
+### Snapshot of Work
+
+
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
