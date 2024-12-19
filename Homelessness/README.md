@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Tutay0913JP/DataScienceWork/tree/main/images">
+    <img src="homeless.png" alt="Logo" width="80" height="80">
   </a>
-
+images
   <h1 align="center">Homelessness in United States </h1>
 
   <p align="center">
