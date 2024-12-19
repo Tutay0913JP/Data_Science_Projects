@@ -21,6 +21,8 @@ This project aims to build a machine learning model that will predict electric c
 
 ### Built With
 * Python Programming using Jupiter Notebook
+* XBoost Algorithm
+* Random Forrest Regressor
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -43,19 +45,11 @@ homelessness.
  5. Run r code to plot the variable and see relationship with the variables in a graph.
  6. Run r code and perform correlation analysis
 
-### Analysis Result
-The following are the pearson correlation coefficient result that shows positive association between these variables and the PIT Homeless population which means that increase on these variables have impact to increasing homeless population
+### Snapshot of Work
 
-1. Population with r= 0.8188518
-2. Unemployment Rate= 0.8320909
-3. Poverty = 0.792723
-4. Crime and Violence = 0.8125345
-5. Average weather temperature =0.13306
-
-Interestingly, these variables resulted to pearson correlation coefficient that shows negative association between these variables and the PIT Homeless population which means that increase on these variables have impact to decreasing homeless population which I think result is unexpected as these are known factors that impacts homeless population in a state. I think it may be related to the quality and coverage of data collected for this project which I will address in the limitation section: 
-
-5. Average Rent =  -0.0218517
-6. Percent of Adult with Depression  by State -0.2962761 
+<p align="center">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ElectricProsumer.png">
+</p>
 
 <!-- CONTACT -->
 ## Contact
