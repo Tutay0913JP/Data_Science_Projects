@@ -8,7 +8,7 @@
 
   <h1 align="center">Homelessness in United States </h1>
   <p align="center">
-    Exploration Data Analysis
+     Exploration Data Analysis and Regression Project
   </p>
 </div>
 
@@ -56,15 +56,28 @@ homelessness.
  1. Defining the topic of the research in which I have identified homelessness and defining variables that  impacts homelessness in the United States.
  2. Start data gathering by identifying the type of data to collect and sources of information.
  3. Data Preparation and Cleansing. I have collected public information in CVS and excel format. I have  analyzed and understand the raw data and implemented R functions to:
- • Extract relevant information
- • Reorganize the data in accordance with my intended final dataset structure format
- • Merge multiple data frame by a common data elements: state and year
- • Create new variables such as the Ratio of Homelessness to State population and the Mean value of
- housing rentals.
- 4. Run r code to plot the variable and see relationship with the variables in a graph.
- 5. Run r code and perform correlation analysis
-    
-### Snapshots of results
+    * Extract relevant information
+    * Reorganize the data in accordance with my intended final dataset structure format
+    * Merge multiple data frame by a common data elements: state and year
+    * Create new variables such as the Ratio of Homelessness to State population and the Mean value of  housing rentals.
+ 5. Run r code to plot the variable and see relationship with the variables in a graph.
+ 6. Run r code and perform correlation analysis
+
+### Analysis Result
+The following are the pearsoncorrelationcoefficient result that shows positive association between these variables ndthePITHomelesspopulationwhichmeans that increaseonthesevariableshave impact to
+ increasinghomelesspopulation
+ 1. Populationwithr=0.8188518
+ 2.UnemploymentRate=0.8320909
+ 3. Poverty=0.792723
+ 4. CrimeandViolence=0.8125345
+ 5.Averageweathertemperature=0.13306
+ Interestingly, thesevariablesresultedtopearsoncorrelationcoefficientthatshowsnegativeassociationbe
+tweenthesevariablesandthePITHomelesspopulationwhichmeansthat increaseonthesevariableshave
+ impact todecreasinghomelesspopulationwhichI thinkresult isunexpectedas theseareknown factors
+ that impactshomelesspopulationinastate. Ithinkitmayberelatedtothequalityandcoverageofdata
+ collectedforthisprojectwhichIwilladdressinthelimitationsection:
+ 5.AverageRent=-0.0218517
+ 6. PercentofAdultwithDepressionbyState-0.2962761
 
 
 <!-- CONTACT -->
