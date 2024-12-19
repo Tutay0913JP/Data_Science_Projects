@@ -78,7 +78,9 @@ Interestingly, these variables resulted to pearson correlation coefficient that 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [Janine Par linkedin](https://www.linkedin.com/in/janine-par-a0753a2b8) - parjanine@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Tutay0913JP/](https://github.com/Tutay0913JP)
+
+
 
