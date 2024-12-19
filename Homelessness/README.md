@@ -64,21 +64,18 @@ homelessness.
  6. Run r code and perform correlation analysis
 
 ### Analysis Result
-The following are the pearsoncorrelationcoefficient result that shows positive association between these variables ndthePITHomelesspopulationwhichmeans that increaseonthesevariableshave impact to
- increasinghomelesspopulation
- 1. Populationwithr=0.8188518
- 2.UnemploymentRate=0.8320909
- 3. Poverty=0.792723
- 4. CrimeandViolence=0.8125345
- 5.Averageweathertemperature=0.13306
- Interestingly, thesevariablesresultedtopearsoncorrelationcoefficientthatshowsnegativeassociationbe
-tweenthesevariablesandthePITHomelesspopulationwhichmeansthat increaseonthesevariableshave
- impact todecreasinghomelesspopulationwhichI thinkresult isunexpectedas theseareknown factors
- that impactshomelesspopulationinastate. Ithinkitmayberelatedtothequalityandcoverageofdata
- collectedforthisprojectwhichIwilladdressinthelimitationsection:
- 5.AverageRent=-0.0218517
- 6. PercentofAdultwithDepressionbyState-0.2962761
+The following are the pearson correlation coefficient result that shows positive association between these variables and the PIT Homeless population which means that increase on these variables have impact to increasing homeless population
 
+1. Population with r= 0.8188518
+2. Unemployment Rate= 0.8320909
+3. Poverty = 0.792723
+4. Crime and Violence = 0.8125345
+5. Average weather temperature =0.13306
+
+Interestingly, these variables resulted to pearson correlation coefficient that shows negative association between these variables and the PIT Homeless population which means that increase on these variables have impact to decreasing homeless population which I think result is unexpected as these are known factors that impacts homeless population in a state. I think it may be related to the quality and coverage of data collected for this project which I will address in the limitation section: 
+
+5. Average Rent =  -0.0218517
+6. Percent of Adult with Depression  by State -0.2962761 
 
 <!-- CONTACT -->
 ## Contact
