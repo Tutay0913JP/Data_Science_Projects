@@ -35,18 +35,18 @@ This assignment performed a single and multiple regression models to predict hou
  * Histogram shows normal distribution, which mean that our model is accurate for the sample and  generalized to the population
 
 ### Snapshot of Work
+<p align="center">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/housingSalesPriceResult.png">
+</p>
 
 <p align="center">
   <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/housingSalesPrice1.png">
 </p>
 
-<p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/housingSalesResult.png">
-</p>
 
 
+## Contact
 Your Name - [Janine Par linkedin](https://www.linkedin.com/in/janine-par-a0753a2b8) - parjanine@gmail.com
 
 Project Link: [https://github.com/Tutay0913JP/](https://github.com/Tutay0913JP)
 
-## Contact
