@@ -28,11 +28,11 @@ This project aims to build a machine learning model that will predict electric c
 ### Snapshot of Work
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ElectricProsumer.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
 </p>
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ElectricProsumer.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/prosumer1.png">
 </p>
 
 <!-- CONTACT -->
