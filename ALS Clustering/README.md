@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ElectricProsumer.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/portfolio/blob/master/images/als.png">
 </p>
 
 
