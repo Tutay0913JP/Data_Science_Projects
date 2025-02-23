@@ -28,10 +28,15 @@ This approach recommends popular items and, therefore, may underperform for user
 
 ### Steps implementated
 Step 1: Load the Small Movie Lense to Panda Dataframe
+
 Step 2: Display and view details of each datasets
+
 Step 3.1: Check Null values
+
 Step 3.2: Merge Movies and ratings datasets
+
 Step 3.3: Remove Timestamp, we will not need this column for user user collaborative filtering
+
 Step 3.4 See User, Movie and Rating information
 
 Step 4: Build Recommendation System - Collaborative Filtering
@@ -52,6 +57,7 @@ user_inv_mapper: maps user index to user id
 movie_inv_mapper: maps movie index to movie id
 
 Step 4.2: Use K-Nearest Neighbors to identify the movies that have the most similar user engagement vectors for the entered movie
+
 Step 5: Ask for User Input. I have used the Python Package fuzzywussy which allows to match movie title from the dataset that is similar to the movie title string that is entered by the user
 The process will get the most matched title name from our list and it will return the title, the matching ratio and the movie index
 
