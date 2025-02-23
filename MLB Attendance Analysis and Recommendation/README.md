@@ -17,13 +17,11 @@ This project looks into the MLB details for an entire season played at Dodger St
 
 
 ### Built With
-* R Programming
-* readxl
-* plyr
-* ggplot2
-* lm.beta
-* dplyr
-* car
+* Python
+* pandas
+* matplotlib
+* seaborn
+* scipy
 
 <!-- GETTING STARTED -->
 ### Summary and Conclusion
