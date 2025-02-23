@@ -15,14 +15,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-For many years, energy distribution has been directional, and electric suppliers have produced power in a scheduled and centralized system; thus, the electric grid have easily achieved stability of supply based on the demand most of the time. With the production of power from solar energy and the increase of prosumers, the instability of energy supply and demand can cause issues in the grids because the production of renewable energy can be high at some times but can also fluctuate and not be sufficient to match the demand. This challenges grid operators and regulators to balance the demand and supply and ensure fair pricing and access for all. If this issue is not addressed, this can affect consumers in general because operators can increase the transmission charges because of the high operational cost of maintaining the infrastructure and balancing the supply and demand. This also threatens the utility business model because of a potential revenue and market share reduction. 
+The analysis aimed to uncover patterns and relationships within ALS patient data by combining K-means clustering and PCA. The silhouette score plot was used to determine the optimal number of clusters, and a K-means model was applied to assign cluster labels to the data. PCA was then employed to reduce the dimensionality of the data for visualization. The scatterplot of the PCA-transformed data with cluster colors provides insights into the grouping of ALS patients based on the identified features. The visual representation aids in understanding potential clusters or patterns that may exist in the data.
+In this project, I used the historical data for Amyotrophic lateral sclerosis (ALS) and performed a k-means clustering model to uncover groups of similar patterns within ALS dataset using Python programming. 
 
-This project aims to build a machine learning model that will predict electric consumption with high accuracy and efficiency will provide insights for individuals on their energy bills and also for electric companies to make informed decisions based on this analysis. By forecasting the demand, electric companies will be able to reduce the waste of energy supply and efficiently plan for demand and supply, enabling effective planning and energy.
 
 ### Built With
 * Python Programming using Jupiter Notebook
-* XBoost Algorithm
-* Random Forrest Regressor
+* K-Means Clustering Algorithm
 
 
 ### Snapshot of Work
