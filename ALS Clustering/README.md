@@ -36,11 +36,7 @@ After fitting the scaled dataset to PCA (with 2 features) and runnig it to K-mea
 ### Snapshot of Work
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
-</p>
-
-<p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/prosumer1.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/Data_Science_Projects/blob/main/images/als_pca.png">
 </p>
 
 <!-- CONTACT -->
