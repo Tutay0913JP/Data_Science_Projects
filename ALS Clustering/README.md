@@ -23,6 +23,15 @@ In this project, I used the historical data for Amyotrophic lateral sclerosis (A
 * Python Programming using Jupiter Notebook
 * K-Means Clustering Algorithm
 
+### Summary and Conclusion
+
+In this K-means clustering exercise on ALS dataset, Here are my findings:
+
+Standard scaling is important as we want to treat all the features equally and we can achieve this by transforming the features to a values that fall within the same numerical range.
+
+Based on the silhouette v.s number of clusters for Standard Scaled ALS dataset , the best choice for K = 2 because it shows the highest silhouette score. However, I still observed that there are overlap between two clusters. The blue and red segment are not that clearly separated even after reducing a few highly correlated features.
+
+After fitting the scaled dataset to PCA (with 2 features) and runnig it to K-means (n_cluster=2) , the Red and Blue segments are clearly separated which means that PCA has reduced the noise and redundancy in the data and shows a more improved quality of the clusters.
 
 ### Snapshot of Work
 
