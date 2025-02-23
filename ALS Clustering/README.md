@@ -6,7 +6,7 @@
 </p>
 
 
-  <h1 align="center">Prosumer Electric Consumption Prediction</h1>
+  <h1 align="center">ALS Data Clustering (Unsupervised Learning)</h1>
   <p align="center">
      Time-series Regression Model 
   </p>
