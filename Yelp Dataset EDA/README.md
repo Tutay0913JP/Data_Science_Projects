@@ -30,18 +30,23 @@ From the exploratory and observation, we have seen several main points which hel
 
 ### Built With
 * Python Programming using Jupiter Notebook
-* XBoost Algorithm
-* Random Forrest Regressor
-
-
+* Numpy
+* Matplotlib
+* thinkstats2
+* Pandas
+  
 ### Snapshot of Work
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/Data_Science_Projects/blob/main/images/yelp1.png">
 </p>
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/prosumer1.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/Data_Science_Projects/blob/main/images/Yelp2.png">
+</p>
+
+<p align="center">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/Data_Science_Projects/blob/main/images/Yelp3.png">
 </p>
 
 <!-- CONTACT -->
