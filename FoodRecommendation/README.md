@@ -23,6 +23,7 @@ It can be overwhelming to pick good quality food because of the wide range of op
 
 •	Allowing users to explore a range of food options to expand their dietary choices. The goal is to promote a good diet and encourage consistency in selecting healthier options to help 
 consumers live longer and healthier lives.
+
 The outcome of this project can also be integrated into businesses to enhance customer experience and drive business growth. 
 
 
