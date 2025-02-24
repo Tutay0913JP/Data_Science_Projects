@@ -37,19 +37,19 @@ The outcome of this project can also be integrated into businesses to enhance cu
 ### Snapshot of Work
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/food1.png">
 </p>
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/prosumer1.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/food2.png">
 </p>
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/food3.png">
 </p>
 
 <p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/prosumer1.png">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/food4.png">
 </p>
 
 <!-- CONTACT -->
