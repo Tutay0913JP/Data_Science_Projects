@@ -6,26 +6,43 @@
 </p>
 
 
-  <h1 align="center">Prosumer Electric Consumption Prediction</h1>
+  <h1 align="center">RECIPE AND FOOD RECOMMENDATION USING MACHINE LEARNING</h1>
   <p align="center">
-     Time-series Regression Model 
+       Food.com Recipes k-means clustering and K-Nearest Neighbor Algorithm
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-For many years, energy distribution has been directional, and electric suppliers have produced power in a scheduled and centralized system; thus, the electric grid have easily achieved stability of supply based on the demand most of the time. With the production of power from solar energy and the increase of prosumers, the instability of energy supply and demand can cause issues in the grids because the production of renewable energy can be high at some times but can also fluctuate and not be sufficient to match the demand. This challenges grid operators and regulators to balance the demand and supply and ensure fair pricing and access for all. If this issue is not addressed, this can affect consumers in general because operators can increase the transmission charges because of the high operational cost of maintaining the infrastructure and balancing the supply and demand. This also threatens the utility business model because of a potential revenue and market share reduction. 
+It can be overwhelming to pick good quality food because of the wide range of options from restaurants and meal delivery to grocery stores. Moreover, determining food and recipes for a balanced diet and avoiding junk food is daunting, leading to decision fatigue and poor food selection. Businesses in the food industry can leverage information on nutritional content, ingredients, and user reviews and build a food and recipe recommendations engine using a machine learning algorithm, which is important for: 
 
-This project aims to build a machine learning model that will predict electric consumption with high accuracy and efficiency will provide insights for individuals on their energy bills and also for electric companies to make informed decisions based on this analysis. By forecasting the demand, electric companies will be able to reduce the waste of energy supply and efficiently plan for demand and supply, enabling effective planning and energy.
+•	Providing users with the ability to discover food that aligns with their dietary needs, allergy restrictions, and food preferences. 
+
+•	Offering healthier alternatives based on user fitness and nutritional goals. 
+
+•	Allowing users to explore a range of food options to expand their dietary choices. The goal is to promote a good diet and encourage consistency in selecting healthier options to help 
+consumers live longer and healthier lives.
+The outcome of this project can also be integrated into businesses to enhance customer experience and drive business growth. 
+
+
 
 ### Built With
 * Python Programming using Jupiter Notebook
-* XBoost Algorithm
-* Random Forrest Regressor
+* Pandas
+* KMeans
+* NearestNeighbors
 
 
 ### Snapshot of Work
+
+<p align="center">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
+</p>
+
+<p align="center">
+  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/prosumer1.png">
+</p>
 
 <p align="center">
   <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
