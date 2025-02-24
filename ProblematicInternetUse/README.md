@@ -6,34 +6,45 @@
 </p>
 
 
-  <h1 align="center">Prosumer Electric Consumption Prediction</h1>
+  <h1 align="center">PROBLEMATIC INTERNET USE AMONG CHILDREN AND YOUNG ADULTS</h1>
   <p align="center">
-     Time-series Regression Model 
+     Exploratory Data Analysis and Machine Learning Prediction of Severity Impairment Index (sii) 
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-For many years, energy distribution has been directional, and electric suppliers have produced power in a scheduled and centralized system; thus, the electric grid have easily achieved stability of supply based on the demand most of the time. With the production of power from solar energy and the increase of prosumers, the instability of energy supply and demand can cause issues in the grids because the production of renewable energy can be high at some times but can also fluctuate and not be sufficient to match the demand. This challenges grid operators and regulators to balance the demand and supply and ensure fair pricing and access for all. If this issue is not addressed, this can affect consumers in general because operators can increase the transmission charges because of the high operational cost of maintaining the infrastructure and balancing the supply and demand. This also threatens the utility business model because of a potential revenue and market share reduction. 
+Problematic Internet Use (PIU) among children and young people, commonly referred to as internet addiction, is growing. Without proper guidance and filtering, kids may be exposed to inappropriate content, cyberbullying, and online games. In addition, social media sites have algorithms designed to keep users more engaged, making our young individuals more vulnerable to unhealthy internet usage. 
+The objective of this project includes:
+•	Explore data trends by looking at demographic, physical, and fitness measures and how they correlate with a child’s severity impairment index (sii), a standard measure of problematic internet use.
+•	Implement a machine learning algorithm to predict the Severity Impairment Index (sii).
+•	Determine the variable that most impacts youth’s problematic internet usage (PIU).
+•	Possibly implement unsupervised machine learning algorithm to identify patterns to detect problematic internet usage (PIU) by clustering users. This may allow further research to identify risk groups and understand the underlying characteristics of problematic internet use. 
+The outcome of this project can be used as proactive measures that enable educators and health care professionals to implement early interventions for young individuals by identifying potential problematic internet users before their behavior becomes severe by analyzing patterns in the early stages of online activity. 
 
-This project aims to build a machine learning model that will predict electric consumption with high accuracy and efficiency will provide insights for individuals on their energy bills and also for electric companies to make informed decisions based on this analysis. By forecasting the demand, electric companies will be able to reduce the waste of energy supply and efficiently plan for demand and supply, enabling effective planning and energy.
 
 ### Built With
 * Python Programming using Jupiter Notebook
-* XBoost Algorithm
+* Pandas
+* Logistic Regression
+* SVM
+* Decision Tree
+* KNN Classifier
 * Random Forrest Regressor
 
 
-### Snapshot of Work
+### Conclusion
 
-<p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/ResultTimeseriesRegression.png">
-</p>
+Conclusion 
+The machine learning classification model is able to predict the Severity Impairment Index (SII). The Decision Tree algorithm shows a good fit when predicting SII with the following 
+results: 
+  Decision Tree: 
+* Training Accuracy: 100.0, Train Recall: 100.0, Train F1: 100.0
+* Test Accuracy: 98.73417721518987, Test Recall: 98.73417721518987, Test F1: 98.71815921095312 
 
-<p align="center">
-  <img width="460" height="auto" src="https://github.com/Tutay0913JP/DataScienceWork/blob/main/images/prosumer1.png">
-</p>
+However, the classification model achieves 100% accuracy on training data and indicates overfitting. This needs to be looked at further and might require dataset to be increased to 
+more representative data. 
 
 <!-- CONTACT -->
 ## Contact
