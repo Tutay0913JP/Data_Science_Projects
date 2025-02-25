@@ -48,5 +48,5 @@ This assignment performed a single and multiple regression models to predict hou
 ## Contact
 Your Name - [Janine Par linkedin](https://www.linkedin.com/in/janine-par-a0753a2b8) - parjanine@gmail.com
 
-Project Link: [https://github.com/Tutay0913JP/](https://github.com/Tutay0913JP)
+Profile Link: [Data Science Profile ](https://tutay0913jp.github.io/portfolio/)
 
