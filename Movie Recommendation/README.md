@@ -26,7 +26,7 @@ Collaborative Filtering can recommend movies accurately based on the assumption 
 New items that have never been rated cannot be recommended since recommendation relies on prior rating.
 This approach recommends popular items and, therefore, may underperform for users with different preferences.
 
-### Steps implementated
+### Steps implemented
 Step 1: Load the Small Movie Lense to Panda Dataframe
 
 Step 2: Display and view details of each datasets
@@ -68,5 +68,5 @@ The process will get the most matched title name from our list and it will retur
 
 Your Name - [Janine Par linkedin](https://www.linkedin.com/in/janine-par-a0753a2b8) - parjanine@gmail.com
 
-Project Link: [https://github.com/Tutay0913JP/](https://github.com/Tutay0913JP)
+Profile Link: [Data Science Profile ](https://tutay0913jp.github.io/portfolio/)
 
