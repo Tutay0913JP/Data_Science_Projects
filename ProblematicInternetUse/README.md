@@ -51,5 +51,5 @@ more representative data.
 
 Your Name - [Janine Par linkedin](https://www.linkedin.com/in/janine-par-a0753a2b8) - parjanine@gmail.com
 
-Profile Link: [Data Science Profile ](https://tutay0913jp.github.io/portfolio/)
+Profile Link: [JaninePar_ProjectProfile](https://tutay0913jp.github.io/JaninePar_portfolio/)
 
